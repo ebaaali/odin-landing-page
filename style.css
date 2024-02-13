@@ -1,0 +1,7 @@
+.boxy {
+    display: flex;
+}
+
+.down {
+    flex-direction: column;
+}
