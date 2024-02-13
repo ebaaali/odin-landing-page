@@ -5,3 +5,14 @@
 .down {
     flex-direction: column;
 }
+
+ul {
+    gap: 5px;
+}
+li {
+    list-style-type: none;
+}
+
+header {
+    justify-content: space-between;
+}
