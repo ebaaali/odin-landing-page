@@ -97,15 +97,26 @@ header {
 
 container {
     background-color: #3882F6 ;
+    width: 60%;
+    border-radius: 5px;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
-button {
+.sign {
     background-color: #3882F6;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 30px;
+    box-shadow: none;
 }
 
 img {
     height: 145px;
-    border: solid blue;
+    border: solid  #3882F6;
     border-radius: 10px;
 }
 
@@ -131,4 +142,31 @@ img, .subtext {
 
 .fourth {
     padding: 100px 350px;
+}
+
+.fifth {
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.bigger {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.callit {
+    width: 60%;
+}
+
+.again {
+    border-color: white;
+}
+
+.callit {
+    padding-bottom: 0;
+}
+
+.tellem {
+    margin-top: 0;
 }
