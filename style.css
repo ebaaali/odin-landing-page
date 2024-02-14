@@ -1,7 +1,12 @@
+body {
+    background-color: black;
+}
 .boxy {
     display: flex;
     padding-left: 100px;
     padding-right: 100px;
+    margin-left: 75px;
+    margin-right: 75px;
 }
 
 header, .second, footer{
@@ -107,4 +112,8 @@ img {
 .subtext {
     width: 80px;
 
+}
+
+.third, .fifth {
+    background-color: white;
 }
