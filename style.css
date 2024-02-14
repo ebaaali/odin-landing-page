@@ -97,3 +97,14 @@ container {
 button {
     background-color: #3882F6;
 }
+
+img {
+    width: 80px;
+    height: 80px;
+    border: solid blue;
+}
+
+.subtext {
+    width: 80px;
+
+}
