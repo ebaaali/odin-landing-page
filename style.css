@@ -1,8 +1,10 @@
-
+body {
+    background-color: black;
+}
 .boxy {
     display: flex;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding: 0 100px;
+    margin: 0 150px;
 }
 
 header, .second, footer{
@@ -16,6 +18,11 @@ header, .second, footer{
 a {
     color: white;
     text-decoration: none;
+}
+
+.links {
+    padding: 0;
+    margin: 0;
 }
 
 ul {
