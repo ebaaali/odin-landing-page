@@ -73,3 +73,19 @@ header {
  justify-content: center;
  align-items: center;
 }
+
+.fourth {
+    background-color: #E5E7EB;
+}
+
+#quote {
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+}
+
+#source {
+    text-align: right;
+    font-weight: bold;
+}
