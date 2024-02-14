@@ -163,10 +163,8 @@ img, .subtext {
     border-color: white;
 }
 
-.callit {
-    padding-bottom: 0;
-}
-
-.tellem {
-    margin-top: 0;
+footer p {
+    color: white;
+    text-align: center;
+    width: 100%;
 }
