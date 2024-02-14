@@ -104,16 +104,23 @@ button {
 }
 
 img {
-    width: 80px;
-    height: 80px;
+    height: 145px;
     border: solid blue;
+    border-radius: 10px;
 }
 
-.subtext {
-    width: 80px;
-
+img, .subtext {
+    width: 145px;
 }
 
 .third, .fifth {
     background-color: white;
+}
+
+.pics {
+    justify-content: space-around;
+}
+
+.subtext {
+    text-align: center;
 }
