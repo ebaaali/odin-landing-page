@@ -1,12 +1,8 @@
-body {
-    background-color: black;
-}
+
 .boxy {
     display: flex;
     padding-left: 100px;
     padding-right: 100px;
-    margin-left: 75px;
-    margin-right: 75px;
 }
 
 header, .second, footer{
@@ -16,6 +12,7 @@ header, .second, footer{
 .down {
     flex-direction: column;
 }
+
 
 ul {
     gap: 25px;
@@ -53,7 +50,9 @@ header {
 .right {
     align-items: center;
     width: 50%;
-    justify-content: center;
+    justify-content: flex-end;
+    margin: 0;
+    padding: 0
 }
 
 #subtext {
@@ -62,7 +61,7 @@ header {
 }
 
 .second {
-    padding-bottom: 20px;
+    padding-bottom: 100px;
     height: fit-content;
 }
 
